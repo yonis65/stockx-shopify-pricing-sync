@@ -2,7 +2,7 @@
 
 **Stop losing margins to market volatility. Automate your sneaker store pricing with real-time StockX data.**
 
-[**Get Started for Free at SyncKicks.app**](https://synckicks.app)
+[**Get Started for Free at SyncKicks.app**](https://synckicks.app/?ref=github)
 
 ---
 
@@ -61,8 +61,8 @@ I decided to turn that script into a robust, user-friendly SaaS to help independ
 ## Feedback & Support
 This project is currently in **Beta**. I am actively looking for shop owners to test the platform and provide feedback.
 
-*   **Website:** [synckicks.app](https://synckicks.app)
-*   **Issues:** Please use the [GitHub Issues](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) tab to report bugs or request features.
+*   **Website:** [synckicks.app](https://synckicks.app/?ref=github)
+*   **Issues:** Please use the [GitHub Issues](https://github.com/yonis65/stockx-shopify-pricing-sync/issues) tab to report bugs or request features.
 
 ---
 
