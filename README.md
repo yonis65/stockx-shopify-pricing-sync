@@ -1,4 +1,4 @@
-# StockX to Shopify Price Sync & Automation | SyncKicks 👟
+# StockX to Shopify Price Sync & Automation | SyncKicks
 
 **Stop losing margins to market volatility. Automate your sneaker store pricing with real-time StockX data.**
 
